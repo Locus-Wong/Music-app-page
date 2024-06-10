@@ -21,9 +21,16 @@ Welcome to the dynamic music app webpage with a bungee theme! This project simul
 - Semantic Elements: Using semantic elements like `<header>`, `<nav>`, and `<main>` to enhance the meaning and accessibility of the document structure.
 - Datalist: Using <datalist> to provide autocomplete options for musical genres.
 ### CSS
-- Responsive Design Principles: Ensuring the webpage adjusts well to different screen sizes using meta tags and CSS.
+- Responsive Design Principles: Ensuring the webpage adjusts well to different screen sizes using meta tags and setting width as a percentage in CSS.
 - Google Fonts: Importing custom fonts from Google Fonts.
 - Font Awesome: Integrating Font Awesome for icons.
+- use `:hover`: Applies a border, border-radius, and box-shadow to cards and buttons on hover for a highlighting effect.
+- Uses flexbox: Uses flexbox to create a flexible layout with cards that wrap and are spaced evenly.
 ### JavaScript
-- Dynamic Functionality: A button that dynamically adds additional input elements for song/video links.
-- Dynamic Functionality: Checking if the artist’s music includes explicit lyrics.
+- Element Creation: Creating new HTML elements dynamically using document.createElement().
+- Appending Elements to the DOM: Appending newly created elements to the existing DOM structure using appendChild().
+- Setting Element Attributes: Setting attributes like href, textContent, src, id, className, and target.
+- Clearing Content: Clearing the content of a container using `innerHTML`.
+- Event Listeners: Adding event listeners to elements for handling user interactions.
+- Array Iteration: Using array methods like forEach and filter to iterate over and manipulate arrays.
+- String Operations: Concatenating and manipulating strings.
