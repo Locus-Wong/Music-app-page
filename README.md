@@ -15,14 +15,15 @@ Welcome to the dynamic music app webpage with a bungee theme! This project simul
 - **Personalization**: Users can add their favorite artists and songs to customize the music app webapge.
 
 ## Skills Applied
-
-- **Responsive Design Principles**: Ensuring the webpage adjusts well to different screen sizes using meta tags and CSS.
-- **Google Fonts**: Importing custom fonts from Google Fonts.
-- **Form Creation**: Creating forms with `<form>` and various input types such as `<input type="text">`, `<input type="email">`, `<input type="url">`, `<textarea>`, and `<button>`.
-- **Form Attributes**: Using attributes like `method`, `action`, `id`, `name`, `list`, and `placeholder`.
-- **Font Awesome**: Integrating Font Awesome for icons.
-- **Semantic Elements**: Using semantic elements like `<header>`, `<nav>`, and `<main>` to enhance the meaning and accessibility of the document structure.
-- **Datalist**: Using `<datalist>` to provide autocomplete options for form inputs, with 10 predefined musical genres.
-- **JavaScript**: Adding dynamic functionality, such as:
-  - A button that dynamically adds additional input elements for song/video links.
-  - Checking if the artist’s music includes explicit lyrics.
+### HTML
+- Form Creation: Creating forms with <form> and various input types such as `<input type="text">`, `<input type="email">`, `<input type="url">`, `<textarea>`, and `<button>`.
+- Form Attributes: Using attributes like method, action, id, name, list, and placeholder.
+- Semantic Elements: Using semantic elements like `<header>`, `<nav>`, and `<main>` to enhance the meaning and accessibility of the document structure.
+- Datalist: Using <datalist> to provide autocomplete options for musical genres.
+### CSS
+- Responsive Design Principles: Ensuring the webpage adjusts well to different screen sizes using meta tags and CSS.
+- Google Fonts: Importing custom fonts from Google Fonts.
+- Font Awesome: Integrating Font Awesome for icons.
+### JavaScript
+- Dynamic Functionality: A button that dynamically adds additional input elements for song/video links.
+- Dynamic Functionality: Checking if the artist’s music includes explicit lyrics.
