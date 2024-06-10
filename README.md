@@ -2,7 +2,7 @@
 
 # Dynamic Music App Webpage
 
-Welcome to the dynamic music app webpage with a bungee theme! This project is designed to provide an engaging and personalized music experience.
+Welcome to the dynamic music app webpage with a bungee theme! This project is designed to provide an engaging and personalized music experience for self-learning purposes.
 
 ## Features
 
@@ -11,3 +11,5 @@ Welcome to the dynamic music app webpage with a bungee theme! This project is de
 - **Personalization**: Add your favorite artists and songs to customize your music experience.
 
 Enjoy exploring new music and staying updated with your favorite artists!
+
+This project is intended to help improve my skills in HTML, CSS and Javascript by faithfully recreating the Unity manual's layout and style.
