@@ -34,3 +34,7 @@ Welcome to the dynamic music app webpage with a bungee theme! This project simul
 - Event Listeners: Adding event listeners to elements for handling user interactions.
 - Array Iteration: Using array methods like forEach and filter to iterate over and manipulate arrays.
 - String Operations: Concatenating and manipulating strings.
+
+### Resource
+- Youtube
+- <a href = "https://bendodson.com/projects/itunes-artwork-finder/"> iTunes Artwork Finder </a>
